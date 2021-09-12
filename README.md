@@ -9,4 +9,3 @@
 ##食用方式
 * V4: [@v4](https://github.com/jiulan/jd_v4)
 * 自用库：[@scripts](https://github.com/jiulan/lxk_scripts.git)
-* cookie获取：[@网站获取](http://jd.lianggenming.link)/[@自己部署](https://github.com/jiulan/jd_cookie.git)
